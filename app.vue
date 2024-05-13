@@ -1,5 +1,5 @@
 <template>
     <div>
-        <NuxtWelcome />
+        <h1>Nuxt Pinia Template</h1>
     </div>
 </template>
