@@ -2,6 +2,12 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+To use this template with recommended options:
+
+```bash
+pnpm dlx nuxi@latest init -t gh:a2k42/nuxt-pinia-template --packageManager pnpm --gitInit --no-install --shell <project-name>
+```
+
 ## Setup
 
 Make sure to install the dependencies:
