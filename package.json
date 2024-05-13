@@ -1,5 +1,5 @@
 {
-    "name": "nuxt-app",
+    "name": "@a2k42/nuxt-pinia-template",
     "private": true,
     "type": "module",
     "scripts": {
