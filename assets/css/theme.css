@@ -1,6 +1,6 @@
 /* Non-colour style variables */
 :root {
-    --font-default: Verdana, Geneva, Tahoma, sans-serif;
+    --font-default: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/named-color */
