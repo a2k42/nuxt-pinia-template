@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     app: {
+        baseURL: "/nuxt-pinia-template",
         head: {
             title: "Nuxt Pinia Template"
         },
