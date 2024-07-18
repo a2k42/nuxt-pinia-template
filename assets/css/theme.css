@@ -7,18 +7,23 @@
 /* Colour varibles */
 :root {
     --deep-black: #050505;
-    --charcoal: #222222;
+    --charcoal: #1a1a1a;
 }
 
 /* Semantic colours */
 :root {
-    --color-background: moccasin;
+    --color-background: radial-gradient(ellipse at 50% 25%, hsl(38, 90%, 85%) 10%, hsl(38, 30%, 30%) 100%);
     --color-text: var(--deep-black);
+    --color-heading: var(--deep-black);
+    --color-link: hsl(218, 90%, 10%);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --color-background: var(--deep-black);
-        --color-text: ghostwhite;
+        /* --color-background: radial-gradient(ellipse at 50% 15%, var(--charcoal), black); */
+        --color-background: var(--charcoal);
+        --color-text: silver;
+        --color-heading: ghostwhite;
+        --color-link: lightcoral;
     }
 }

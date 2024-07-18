@@ -1,5 +1,9 @@
 # Nuxt 3 Minimal Starter
 
+[Nuxt Pinia Template](https://a2k42.github.io/nuxt-pinia-template/) Live Preview
+
+---
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 To use this template with recommended options:
