@@ -55,4 +55,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - [heroicons](https://github.com/tailwindlabs/heroicons#readme) by Tailwind
 - [ionicons](https://ionic.io/ionicons) by Ionic
 
-FontAwesome is *not* MIT licensed. `mdi` seems less popular, it hasn't been update in 2 years, but it could just be stable.
+FontAwesome is _not_ MIT licensed. `mdi` seems less popular, it hasn't been update in 2 years, but it could just be stable.
